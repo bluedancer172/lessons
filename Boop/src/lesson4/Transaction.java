@@ -9,7 +9,6 @@ public class Transaction {
 	private String transactionType;
 
 	private double transactionAmount;
-
 	public Transaction(String type, double amount) {
 		this.transactionType = type;
 		this.transactionAmount = amount;
